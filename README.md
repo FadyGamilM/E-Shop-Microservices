@@ -28,4 +28,3 @@ Microservices Online E-Commerce Web Application Using .Net Core 6
  - **`api/v1/Catalog/{id}`**
     1) Method : **`DELETE Request`** 
     2) Use Case : **`Delete a product given the product id`**
-  
