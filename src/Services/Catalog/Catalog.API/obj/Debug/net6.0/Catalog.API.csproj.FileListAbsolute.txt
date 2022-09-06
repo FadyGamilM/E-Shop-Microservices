@@ -41,3 +41,5 @@ F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\E-Shop\E-Shop-Microservices\src\Se
 F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\E-Shop\E-Shop-Microservices\src\Services\Catalog\Catalog.API\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
 F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\E-Shop\E-Shop-Microservices\src\Services\Catalog\Catalog.API\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
 F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\E-Shop\E-Shop-Microservices\src\Services\Catalog\Catalog.API\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\E-Shop\E-Shop-Microservices\src\Services\Catalog\Catalog.API\bin\Debug\net6.0\AutoMapper.dll
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\E-Shop\E-Shop-Microservices\src\Services\Catalog\Catalog.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
