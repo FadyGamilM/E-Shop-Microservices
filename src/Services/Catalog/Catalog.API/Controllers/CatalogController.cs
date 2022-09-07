@@ -7,7 +7,7 @@ using Catalog.API.Entities;
 namespace Catalog.API.Controllers
 {
    [ApiController]
-   [Route("api/v1/catalogs")]
+   [Route("api/v1/catalog")]
    public class CatalogController : ControllerBase
    {
       private readonly IProductRepo _repo;
