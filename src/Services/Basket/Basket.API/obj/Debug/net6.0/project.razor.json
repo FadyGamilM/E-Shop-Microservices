@@ -1,5 +1,5 @@
 {
-  "FilePath": "f:\\__111 COMPUTER SCIENCE\\4th CSE 2022\\dotnet\\E-Shop\\E-Shop-Microservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+  "FilePath": "f:\\__111 COMPUTER SCIENCE\\4th CSE 2022\\dotnet\\E-Shop\\E-Shop-Microservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16295,7 +16295,7 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "Catalog.API",
+  "RootNamespace": "Basket.API",
   "Documents": [],
   "SerializationFormat": "0.2"
 }
