@@ -38,6 +38,10 @@ namespace Basket.API.Controller
       [HttpDelete("{userName}", Name = "DeleteBasket")]
       public async Task<IActionResult> DeleteBasket(string userName)
       {
+         var ExistingBasket = await _repo.GetBasket(userName);
+         if (ExistingBasket == null){
+            return NotFound();
+         }
          var deleteResult =  await _repo.DeleteBasket(userName);
          if (deleteResult == false){
             ModelState.AddModelError("DeleteBasket", "Error while deleting the basket");
